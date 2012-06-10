@@ -1,0 +1,14 @@
+[03-Feb-2012 15:34:20] PHP Warning:  include(phpQuery-one in /data/home/deivison/public_html/demos/pq-php/cep.php on line 2
+[03-Feb-2012 15:34:20] PHP Warning:  include(phpQuery-one in /data/home/deivison/public_html/demos/pq-php/cep.php on line 2
+[03-Feb-2012 15:34:20] PHP Warning:  include() [<a href=' in /data/home/deivison/public_html/demos/pq-php/cep.php on line 2
+[03-Feb-2012 15:34:21] PHP Fatal error:  Class 'phpQuery' not in /data/home/deivison/public_html/demos/pq-php/cep.php on line 29
+[03-Feb-2012 15:37:11] PHP Warning:  file_get_contents()  in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:37:11] PHP Warning:  file_get_contents(ht in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:38:17] PHP Warning:  file_get_contents()  in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:38:17] PHP Warning:  file_get_contents(ht in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:39:05] PHP Warning:  file_get_contents()  in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:39:05] PHP Warning:  file_get_contents(ht in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:40:36] PHP Warning:  file_get_contents()  in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:40:36] PHP Warning:  file_get_contents(ht in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:41:02] PHP Warning:  file_get_contents()  in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
+[03-Feb-2012 15:41:02] PHP Warning:  file_get_contents(ht in /data/home/deivison/public_html/demos/pq-php/phpQuery/phpQuery/phpQuery.php on line 407
