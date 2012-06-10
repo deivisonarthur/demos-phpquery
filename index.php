@@ -3,7 +3,7 @@
 include_once 'phpQuery/phpQuery/phpQuery.php';
 
 
-$file = 'test.html'; // página que será capturados os textos
+$file = 'test.html'; // p&aacute;gina que ser&aacute; capturados os textos
 
 phpQuery::newDocumentFileHTML($file);
 

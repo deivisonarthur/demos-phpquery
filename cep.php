@@ -42,3 +42,4 @@ $dados['uf'] = trim($dados['cidade/uf'][1]);
 unset($dados['cidade/uf']);
 
 die(json_encode($dados));
+
